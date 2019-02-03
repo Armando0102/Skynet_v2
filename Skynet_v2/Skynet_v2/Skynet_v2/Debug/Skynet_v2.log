@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\armchave\desktop\tempsave\skynet_v2\skynet_v2\skynet_v2\source.cpp(9): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\armchave\desktop\tempsave\skynet_v2\skynet_v2\skynet_v2\source.cpp(58): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\armchave\desktop\tempsave\skynet_v2\skynet_v2\skynet_v2\source.cpp(95): warning C4553: '==': result of expression not used; did you intend '='?
+  Skynet_v2.vcxproj -> C:\Users\armchave\Desktop\TempSave\Skynet_v2\Skynet_v2\Debug\Skynet_v2.exe
